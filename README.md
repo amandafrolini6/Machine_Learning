@@ -8,7 +8,7 @@ Repositório contendo todas as aulas, códigos, exercícios e atividades desenvo
 
 # 📚 Conteúdo das Aulas
 
-Este repositório reúne atividades práticas desenvolvidas durante a disciplina de Machine Learning utilizando Python. Ao longo das aulas foram aplicados conceitos de análise de dados, algoritmos preditivos e modelos de classificação utilizando bibliotecas como Pandas, NumPy, Matplotlib e Scikit-Learn.
+Este repositório reúne atividades práticas desenvolvidas durante a disciplina de Machine Learning utilizando Python. Ao longo das aulas foram aplicados conceitos de análise de dados, algoritmos preditivos e modelos de classificação utilizando bibliotecas como Pandas, NumPy, Matplotlib.
 
 ---
 
