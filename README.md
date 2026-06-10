@@ -263,14 +263,7 @@ Nesta aula foi desenvolvido um modelo de agrupamento utilizando K-Means.
 
 ---
 
-## 🛠 Tecnologias utilizadas
-
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
+## 📁 Aula 19 — REVISÃO P2
 
 ---
 
